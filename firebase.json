@@ -1,0 +1,11 @@
+{
+  "firebaseConfig": {
+    "apiKey": "AIzaSyAXjOFFDb9jQpccXxyflAJolM9DucEYsHg",
+    "authDomain": "the-gql.firebaseapp.com",
+    "projectId": "the-gql",
+    "storageBucket": "the-gql.appspot.com",
+    "messagingSenderId": "139349979469",
+    "appId": "1:139349979469:web:1251984fe7357632af0704",
+    "measurementId": "G-SET4R9J1D6"
+  }
+}
